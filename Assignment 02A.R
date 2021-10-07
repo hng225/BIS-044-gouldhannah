@@ -1,4 +1,4 @@
-cat("Hello, World")
+cat("Hello, World") #-5 Agedays in sd() 45/50
 
 #difference in dates
 Agedays= as.double(as.Date("2021-12-3")-Sys.Date())
