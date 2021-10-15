@@ -32,3 +32,7 @@ if(round(i/END*100, digits=0)>COUNTER){
 cat("Number of votes for Biden",BIDEN,"\n")
 cat("Number of votes for Trump",Trump)
 
+
+#-5 candidate spelt wrong, -5 if else, -5 {} are off 35/50
+
+
